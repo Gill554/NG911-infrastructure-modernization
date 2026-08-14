@@ -2,7 +2,7 @@
 
 ## Next-Generation 9-1-1 Infrastructure Modernization & DevOps Knowledge Repository
 
-**Organization:** Ontario Public Service — Emergency Health Services  
+**Organization:** Ontario Public Service - Emergency Health Services  
 **Project Type:** Enterprise Technology / Knowledge Management Case Study  
 **Role:** IT Analyst Intern  
 **Duration:** May 2025 – December 2025
